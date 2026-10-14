@@ -1,0 +1,2 @@
+Hello test file
+Playin with file write ,read and append
