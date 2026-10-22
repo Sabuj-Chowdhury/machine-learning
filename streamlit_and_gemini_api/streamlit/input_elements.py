@@ -25,3 +25,10 @@ clicked = st.button("Confirm",type="primary")
 
 if clicked:
     st.write(f"Your name is {name} and You are {age} years old.")
+    
+    
+st.divider()
+
+options = st.selectbox("Choose your tech stack: ", ("nextJ","Java","SpringBoot"), index=None, accept_new_options=True)
+
+st.write(options)
