@@ -1,1 +1,5 @@
-follow.txt
+
+streamlit_and_gemini_api/streamlit/aduio
+streamlit_and_gemini_api/streamlit/images
+streamlit_and_gemini_api/streamlit/video
+.DS_Store
